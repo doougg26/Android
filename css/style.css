@@ -148,7 +148,7 @@ aside#extra p{
 }
 
 .list li::before{
-  content: '\1F5F8 ';
+  content: '✔️ ';
 }
 .list{
   columns: 2;
