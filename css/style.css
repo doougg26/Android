@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 @font-face {
-    font-family: 'Android' ;
-    src: url(/font/idroid.otf) format(opentype) ;
+    font-family: 'Android';
+    src: url('../font/idroid.otf') format('opentype') ;
     font-weight: normal;
 }
 
@@ -72,7 +72,7 @@ main p{
 }
 
 h1#title{
-  font-family:'Android', sans-serif;
+  font-family:'Android', cursive;
   font-weight: normal;
   text-align: left;
   color: #1a5b37;
@@ -82,7 +82,7 @@ h2{
   font-weight: normal;
   color: #1a5b37;
   font-size: 1.5em;
-  font-family:'Android', sans-serif;
+  font-family:'Android', cursive;
   background-image: linear-gradient(to right,#3cda8367,#1a5b3700);
 }
 h3{
